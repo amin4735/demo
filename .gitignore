@@ -1,0 +1,12 @@
+*.class
+
+#package file
+*.war
+*.ear
+
+#idea
+.idea/
+*.iml
+
+#maven
+target/
